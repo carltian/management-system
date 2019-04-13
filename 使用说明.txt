@@ -1,0 +1,8 @@
+1.确保安装了vue，express，node
+2.在命令行中进入server文件路径
+#server
+node app
+3.命令行中进入人事管理系统文件夹
+#人事管理系统（测试）
+npm install
+npm run dev
